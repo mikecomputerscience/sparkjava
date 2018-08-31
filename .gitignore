@@ -1,3 +1,7 @@
+.DS_Store
+.idea/
+sparkjava.iml
+
 # Compiled class file
 *.class
 
